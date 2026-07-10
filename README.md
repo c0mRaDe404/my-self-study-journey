@@ -23,3 +23,10 @@ I've always wanted to self-study CS. Never bothered to do it tbh. But here i am 
 | MIT 6.824              |  CS61C, CS162     | Not Yet     |                       |             |
 | MIT MISSING SEMESTER   |  None             | Not Yet     |                       |             |
 
+
+## Useful Resources 
+
+- [Main guide](https://csdiy.wiki/en/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/CS346/)
+- [TeachYourselfCS](https://teachyourselfcs.com/)
+
+
