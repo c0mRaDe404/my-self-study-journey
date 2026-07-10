@@ -24,9 +24,13 @@ I've always wanted to self-study CS. Never bothered to do it tbh. But here i am 
 | MIT MISSING SEMESTER   |  None             | Not Yet     |                       |             |
 
 
+## Useful Tools 
+
+- [Git](https://wildlyinaccurate.com/a-hackers-guide-to-git/#merging)
+
+
 ## Useful Resources 
 
-- [Main guide](https://csdiy.wiki/en/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/CS346/)
+- [Main guide](https://csdiy.wiki/en/)
 - [TeachYourselfCS](https://teachyourselfcs.com/)
-
 
