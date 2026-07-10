@@ -8,15 +8,18 @@ I've always wanted to self-study CS. Never bothered to do it tbh. But here i am 
 
 ## Plan 
 
-| Course | Prerequisites |  Completed  |       Duration        |
-|--------|---------------|-------------|-----------------------|
-| CS61A  |               |     ✓       |    2 months (rougly)  |             
-|        |               |             |                       |
-|        |               |             |                       |
-|        |               |             |                       |
-|        |               |             |                       |
-|        |               |             |                       |
-|        |               |             |                       |
-|        |               |             |                       |
-|        |               |             |                       |
+| Course                 | Prerequisites     |  Completed  |       Duration        |
+| :------:               | :-------------:   |:-----------:|:---------------------:|
+| CS61A                  |  None             |     ✓       |    2 months (rougly)  |             
+| CS61B                  |  CS61A            | Not Yet     |                       |
+| CS61C                  |  CS61A, CS61B     | Not Yet     |                       |
+| 15-213                 |  CS61A, CS61B     | Not Yet     |                       |
+| CS162                  |  CS61C            | Not Yet     |                       |
+| CS70                   |  Not sure         | Not Yet     |                       |
+| 15-445                 |  CS61C, CS162     | Not Yet     |                       |
+| CS144                  |  CS61B            | Not Yet     |                       |
+| CS161                  |  CS61C            | Not Yet     |                       |
+| CS186                  |  CS61C            | Not Yet     |                       |
+| MIT 6.824              |  CS61C, CS162     | Not Yet     |                       |
+| MIT MISSING SEMESTER   |  None             | Not Yet     |                       |
 
